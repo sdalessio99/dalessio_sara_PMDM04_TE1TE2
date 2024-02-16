@@ -1,0 +1,7 @@
+{
+  "name": "PMDM04TE1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
